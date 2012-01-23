@@ -1,0 +1,18 @@
+  <div class="status">
+        <h1>GL $current_tag Status</h1>
+        <ul>
+          <li>
+            <em>Packages Complete:</em>
+            $donepkgs of $totalpkgs
+          </li>
+          <li>
+            <em>Last Package:</em>
+            $lastpkg
+          </li>
+          <li>
+            <em>Latest Release:</em>
+            $last_release
+          </li>
+        </ul>
+        <br class="clear" />
+  </div>
